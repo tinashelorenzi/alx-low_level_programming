@@ -9,7 +9,6 @@
  * Low level programming
  * All contained in the main function
  * Return: Always 0
- * 
  */
 int main(void)
 {
