@@ -7,11 +7,11 @@
  */
 int main(void)
 {
-	int begin = '0'
+	char begin = '0';
 
 	for (begin = '0'; begin <= '9'; begin++)
 	{
-		printf(begin);
+		putchar(begin);
 	}
 	printf("\n");
 }
