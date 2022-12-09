@@ -1,10 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
-int main(void)/*Main function and random number gen*/
+/**
+ * Author: Tinashe Matanda(Software engineering)
+ * Randomly generates a number and reveals an output for
+ * it and classification of int
+ * Low level programming
+ * All contained in the main function
+ */
 {
 	int n;
 
@@ -14,9 +18,13 @@ int main(void)/*Main function and random number gen*/
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
-	} else
+	} else if (n < 0)
 	{
 		printf("%d is negative\n", n);
+	}
+	else
+	{
+		printf("%d is zero\n", n);
 	}
 	return (0);
 }
