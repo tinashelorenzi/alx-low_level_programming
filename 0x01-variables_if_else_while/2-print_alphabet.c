@@ -12,7 +12,7 @@ int main(void) {
   for (alph = 'a'; alph <= 'z'; alph++) {
     putchar(alph);
   }
-  for (balph = 'A'; balph <= 'Z' balph++) {
+  for (balph = 'A'; balph <= 'Z'; balph++) {
     putchar(balph);
   }
   putchar('\n');
