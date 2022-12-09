@@ -9,6 +9,7 @@
  * Low level programming
  * All contained in the main function
  */
+int main(void)
 {
 	int n;
 
