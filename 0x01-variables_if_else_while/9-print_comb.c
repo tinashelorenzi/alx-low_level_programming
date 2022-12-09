@@ -7,17 +7,22 @@
  */
 int main(void)
 {
-	int num = '0';
+	int a = '0';
 
-	for (num = '0'; num<= '9'; num++)
+	while (a <= '9')
 	{
-		putchar(num);
-		if (num != '9')
+		putchar(a);
+		if (a == '9')
 		{
-		putchar(',');
+			putchar('\n');
+			return (0);
 		}
-		putchar(' ');
+		else
+		{
+			putchar(',');
+			putchar(' ');
+			a++;
+		}
 	}
-	putchar('\n');
 	return (0);
 }
