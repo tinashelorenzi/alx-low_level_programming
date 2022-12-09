@@ -5,12 +5,14 @@
  * Return: Always 0
  *
  */
-int main(void) {
-  int alph = 'a';
+int main(void)
+{
+	int alph = 'a';
 
-  for (alph = 'a'; alph <= 'z'; alph++) {
-    putchar(alph);
-  }
-  putchar('\n');
-  return (0);
+	for (alph = 'a'; alph <= 'z'; alph++)
+	{
+	putchar(alph);
+	}
+	putchar('\n');
+	return (0);
 }
