@@ -3,13 +3,11 @@
 #include <stdio.h>
 
 /**
- * Author: Tinashe Matanda(Software engineering)
- * Randomly generates a number and reveals an output for
- * it and classification of int
- * Low level programming
- * All contained in the main function
- * Return: Always 0
- */
+* main - Tinashe
+*
+* Return: Always 0
+*
+*/
 int main(void)
 {
 	int n;
