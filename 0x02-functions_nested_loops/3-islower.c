@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
-* main - Tinashe
-*
-* Return: Always 0
-*
-*/
-
+ * Functions, nested loops
+ *
+ * Author: Tinashe
+ */
 int _islower(int c)
 {
 

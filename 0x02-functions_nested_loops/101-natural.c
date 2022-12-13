@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
-* main - Tinashe
-*
-* Return: Always 0
-*
-*/
+ * Functions, nested loops
+ *
+ * Author: Tinashe
+ */
 int main(void)
 {
 	int n;

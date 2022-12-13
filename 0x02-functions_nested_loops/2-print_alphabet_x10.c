@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_alphabet_x10 - func
+ * Functions, nested loops
  *
- * Return - 0
+ * Author: Tinashe
  */
 void print_alphabet_x10(void)
 {

@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
-* main - Tinashe
-*
-* Return: Always 0
-*
-*/
+ * Functions, nested loops
+ *
+ * Author: Tinashe
+ */
 void jack_bauer(void)
 {
 int i, j;

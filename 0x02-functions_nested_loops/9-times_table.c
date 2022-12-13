@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
-* main - Tinashe
-*
-* Return: Always 0
-*
-*/
+ * Functions, nested loops
+ *
+ * Author: Tinashe
+ */
 void time_table(void)
 {
 int i, j, k;

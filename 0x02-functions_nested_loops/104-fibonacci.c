@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - Tinashe
-*
-* Return: Always 0
-*
-*/
+ * Functions, nested loops
+ *
+ * Author: Tinashe
+ */
 int main(void)
 {
 unsigned long int i, j, k, j1, j2, k1, k2;

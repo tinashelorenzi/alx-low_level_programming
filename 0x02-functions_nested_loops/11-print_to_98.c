@@ -2,11 +2,10 @@
 #include "main.h"
 
 /**
-* main - Tinashe
-*
-* Return: Always 0
-*
-*/
+ * Functions, nested loops
+ *
+ * Author: Tinashe
+ */
 void print_to_98(int n)
 {
 int i, j;
