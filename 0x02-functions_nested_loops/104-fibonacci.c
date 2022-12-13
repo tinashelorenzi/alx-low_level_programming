@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * main - finds and prints the first 98 Fibonacci numbers,
+ * starting with 1 and 2
+ * New line
+ * Return: ALways 0 (Success)
  */
 int main(void)
 {

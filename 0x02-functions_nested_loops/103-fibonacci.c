@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * main - finds and prints the sum of the even-valued terms
+ * New line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

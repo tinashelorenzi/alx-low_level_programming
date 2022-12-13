@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * print_to_98 - prints all natural numbers from n to 98,
+ * New line
+ * @n: Starting number
  */
 void print_to_98(int n)
 {

@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * Functions, nested loops
+ * _isalpha - Converts to uppercase
  *
- * Author: Tinashe
+ * @c: is c an integer argument
+ *
+ * Return: Always 0.
  */
 
 int _isalpha(int c)

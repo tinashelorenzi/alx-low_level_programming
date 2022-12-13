@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * print_sign - prints the sign of a number
+ *@n: Variable being tested
+ * Return: Always 0.
  */
+
 
 int print_sign(int n)
 {

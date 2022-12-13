@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * main - prints the first 50  sequence numbers, starting with 1 and 2
+ * followed by a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

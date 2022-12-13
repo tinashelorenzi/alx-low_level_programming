@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * _abs - returns absolute value of an int
+ * @n: integer inputed to receive abs value
+ * Return: Void.
  */
 int _abs(int n)
 {

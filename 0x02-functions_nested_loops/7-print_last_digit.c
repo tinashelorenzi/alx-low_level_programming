@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * print_last_digit - prints the last digit of a number
+ * @n: the int to receive the last digit from
+ * Return: value of the last digit
  */
 int print_last_digit(int n)
 {

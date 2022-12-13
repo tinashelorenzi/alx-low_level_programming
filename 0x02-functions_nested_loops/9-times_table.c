@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * times_table - prints the 9 table, starting with 0
  */
 void time_table(void)
 {

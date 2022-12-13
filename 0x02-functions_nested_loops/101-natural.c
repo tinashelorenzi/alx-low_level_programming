@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Functions, nested loops
- *
- * Author: Tinashe
+ * main - prints the sum of all the multiples of 3 or 5 less than 1024
+ * @void: void
+ * Return: 0 Success
  */
 int main(void)
 {
