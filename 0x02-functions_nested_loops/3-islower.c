@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * Functions, nested loops
- *
+ * _islower - checks for a lowercase character
+ * @c: letter being tested
  * Author: Tinashe
  */
 int _islower(int c)
