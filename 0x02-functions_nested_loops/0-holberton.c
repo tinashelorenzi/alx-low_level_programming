@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
-*main - function prints text as output
+* main - Tinashe
 *
-*Return:return 0
+* Return: Always 0
+*
 */
 int main(void)
 {
