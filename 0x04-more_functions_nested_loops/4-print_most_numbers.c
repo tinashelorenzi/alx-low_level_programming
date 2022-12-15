@@ -5,7 +5,7 @@
 *
 *Return: returns nothing
 */
-void print_numbers(void)
+void print_most_numbers(void)
 {
 	int a = 48;
 
