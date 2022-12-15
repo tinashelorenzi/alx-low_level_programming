@@ -10,6 +10,7 @@ int main(void)
 {
 	long a = 612852475143;
 	int include1;
+
 	while (include1++ < a / 2)
 	{
 		if (a % include1 == 0)
