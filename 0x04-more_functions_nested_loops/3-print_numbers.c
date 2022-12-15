@@ -10,7 +10,7 @@ void print_numbers(void)
 	char a = 48
 	for (a = 48; a <= 57; a++)
 	{
-		_putchar('a');
+		_putchar('%s', a);
 	}
 	_putchar('\n')
 }
