@@ -3,7 +3,7 @@
 /**
  * times_table - prints the 9 table, starting with 0
  */
-void times_table(void);
+void times_table(void)
 {
 int digit, mult, result;
 for (digit = 0; digit <= 9; digit++)
