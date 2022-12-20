@@ -6,16 +6,29 @@
 */
 void rev_string(char *s)
 {
-	int len = 0, index = 0;
-	char word[_strlen(s)]
+	int i = 0, length;
 
-	len = _strlen(s);
-
-	for (index = len - 1; index >= 0; index--)
-	word[index] = (s[index]);
-
-	return (word);
+	length = _strlen(s) - 1;
+	while (length > i)
+	{
+		swap_char(s + length, s + i);
+		i++;
+		length--;
+	}
 }
+/**
+*swap_char - swap two characters
+*@a: first character
+*@b: second character
+*Return: nothing
+*/
+void swap_char(char *a, char *b)
+{
+	char tmp = *a;
+	*a = *b;
+	*b = tmp;
+}
+
 /**
 * _strlen - Checks length of string
 * @s: string to check
