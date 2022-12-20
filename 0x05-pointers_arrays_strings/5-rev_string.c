@@ -14,7 +14,7 @@ void rev_string(char *s)
 	for (index = len - 1; index >= 0; index--)
 	word[index] = (s[index]);
 
-	_putchar('\n');
+	return (word);
 }
 /**
 * _strlen - Checks length of string
