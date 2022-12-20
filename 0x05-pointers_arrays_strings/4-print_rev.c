@@ -7,6 +7,7 @@
 void print_rev(char *s)
 {
 	int len = 0, index = 0;
+
 	len = _strlen(s);
 
 	for (index = len - 1; index >= 0; index--)
@@ -14,6 +15,11 @@ void print_rev(char *s)
 
 	_putchar('\n');
 }
+/**
+* _strlen - Checks length of string
+* @s: string to check
+* Return: 0
+*/
 int _strlen(char *s)
 {
 	int counter, i;
