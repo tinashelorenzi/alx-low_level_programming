@@ -1,54 +1,32 @@
 /**
-* string_toupper - Changes string to uppercase
-* @str: Array/string
+* cap_string - Changes string to uppercase
+* @s: Array/string
 *
 * Return: New string
 */
 char *cap_string(char *s)
 {
-	int is_prev_space = 1;  // Flag to track if previous character was a space
-	int i;
+	int index = 0;
 
-	for (i = 0; s[i] != '\0'; i++)
-	{
-		if (is_prev_space && my_islower(s[i]))
-		{
-			s[i] = string_toupper(s[i]);
-		}
-		is_prev_space = my_isspace(s[i]);
-	}
-}
-/**
-* string_toupper - Changes string to uppercase
-* @str: Array/string
-*
-* Return: New string
-*/
-char string_toupper(char c)
+while (str[++index])
 {
-    if (c >= 'a' && c <= 'z')
-    {
-        return (c - 'a' + 'A');
-    }
-    return c;
+	while (!(str[index] >= 'a' && str[index] <= 'z'))
+		index++;
+
+	if (str[index - 1] == ' ' ||
+			str[index - 1] == '\t' ||
+			str[index - 1] == '\n' ||
+			str[index - 1] == ',' ||
+			str[index - 1] == ';' ||
+			str[index - 1] == '.' ||
+			str[index - 1] == '!' ||
+			str[index - 1] == '?' ||
+			str[index - 1] == '"' ||
+			str[index - 1] == '(' ||
+			str[index - 1] == ')' ||
+			str[index - 1] == '{' ||
+			str[index - 1] == '}')
+		str[index] -= 32;
 }
-/**
-* my_islower - Checks lowercase
-* @str: Array/string
-*
-* Return: New string
-*/
-int my_islower(int c)
-{
-	return (c >= 'a' && c <= 'z');
-}
-/**
-* my_isspace - Checks lowercase
-* @str: Array/string
-*
-* Return: New string
-*/
-int my_isspace(int c)
-{
-    return (c == ' ' || c == '\t' || c == '\n' || c == '\v' || c == '\f' || c == '\r');
+return (str);
 }
