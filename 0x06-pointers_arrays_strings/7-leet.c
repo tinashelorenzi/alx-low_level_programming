@@ -7,16 +7,16 @@
 
 char *leet(char *str)
 {
-	int index1 = 0, index2;
+	int i1 = 0, i2;
 	char leet[8] = {'O', 'L', '?', 'E', 'A', '?', '?', 'T'};
 
-	while (str[++index1])
+	while (str[++i1])
 	{
-		for (index2 = 0; index2 <= 7; index2++)
+		for (i2 = 0; i2 <= 7; i2++)
 		{
-			if (str[index1] == leet[index2] ||
-			 str[index1] - 32 == leet[index2])
-				str[index1] = index2 + '0';
+			if (str[i1] == leet[i2] ||
+			 str[i1] - 32 == leet[i2])
+				str[i1] = i2 + '0';
 		}
 	}
 	return (str);
