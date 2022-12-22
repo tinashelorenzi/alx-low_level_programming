@@ -17,4 +17,5 @@ char *string_toupper(char *s);
 char *cap_string(char *s);
 int my_islower(int c);
 int my_isspace(int c);
+char string_toupper(char c);
 #endif /*MAIN_H*/
