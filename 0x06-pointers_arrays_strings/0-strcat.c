@@ -3,6 +3,8 @@
 * _strcat - Replace character in string src
 * @dest: Destination
 * @src: Source
+*
+* Return: Mutated string @dest
 */
 char *_strcat(char *dest, char *src)
 {
