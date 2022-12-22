@@ -1,6 +1,6 @@
 /**
 * cap_string - Changes string to uppercase
-* @str: Array/string
+* @s: Array/string
 *
 * Return: New string
 */
