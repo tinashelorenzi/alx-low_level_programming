@@ -7,24 +7,16 @@
 */
 void print_number(int n)
 {
+	unsigned int num = n;
+
 	if (n < 0)
 	{
 		_putchar('-');
-		n = -n;
+		num = -num;
 	}
 
-	int digits[10];
-	int num_digits = 0;
+	if ((num / 10) > 0)
+		print_number(num / 10);
 
-	while (n > 0)
-	{
-		digits[num_digits] = n % 10;
-		n /= 10;
-		num_digits++;
-	}
-
-	for (int i = num_digits - 1; i >= 0; i--)
-	{
-		_putchar(digits[i] + '0');
-	}
+	_putchar((num % 10) + '0');
 }
