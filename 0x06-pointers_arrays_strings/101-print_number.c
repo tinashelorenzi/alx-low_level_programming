@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 * rot13 - Changes chars to rot13 encoding
 * @s: Array/string
