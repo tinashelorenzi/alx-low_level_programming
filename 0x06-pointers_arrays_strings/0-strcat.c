@@ -7,31 +7,15 @@
 char *_strcat(char *dest, char *src)
 {
 	int i = 0;
+	int s = 0;
 
-	for (dest[i] = 0; dest[i] = '\0'; i++)
+	while (dest[i++])
 	{
-		if (dest[i] == '\0')
-		{
-			dest[i] = *src;
-		}
+		s++;
 	}
-	string s = dest;
-	return (s);
-}
-/**
-* _strlen - Checks length of string
-* @s: string to check
-* Return: 0
-*/
-int _strlen(char *s)
-{
-	int counter, i;
-
-	counter = 0;
-
-	for (i = 0; s[i] != '\0'; i++)
+	for (i = 0; src[i]; i++)
 	{
-		counter++;
+		dest[s++] = src[i];
 	}
-	return (counter);
+		return (dest);
 }
