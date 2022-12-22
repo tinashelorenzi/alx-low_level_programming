@@ -6,27 +6,20 @@
 */
 char *rot13(char *s)
 {
-	int index = 0;
+	int i, j;
+	char a[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+	char b[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
 
-	while (s[index])
+	for (i = 0; s[i] != '\0'; i++)
 	{
-		// If the current character is a letter, shift it by 13 places
-		if (my_isalpha(s[index]))
+		for (j = 0; a[j] != '\0'; j++)
 		{
-			s[index] = ((s[index] - 'A' + 13) % 26) + 'A';
+			if (s[i] == a[j])
+			{
+				s[i] = b[j];
+				break;
+			}
 		}
-		index++;
 	}
-
 	return (s);
-}
-/**
-* my_isalpha - CHecks if char is a character
-* @c: character
-*
-* Return: Bool 1 or 0
-*/
-int my_isalpha(int c)
-{
-    return ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'));
 }
