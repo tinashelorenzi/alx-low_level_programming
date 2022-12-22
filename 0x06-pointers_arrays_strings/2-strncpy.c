@@ -1,5 +1,5 @@
 /**
-* _strncat - Copy strings
+* _strncpy - Copy strings
 * @dest: Destination
 * @src: Source
 * @n: Size of string
