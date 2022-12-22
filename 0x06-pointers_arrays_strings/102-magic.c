@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
-* main - Changes a[5] to 98
-*
-* Return: 0
-*/
+
 int main(void)
 {
 	int n;
