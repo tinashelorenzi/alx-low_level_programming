@@ -12,44 +12,44 @@
 */
 
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
+
 {
-}
+	int i = 0, j = 0, k, l = 0, f, s, d = 0;
 
-/**
-* add_strings - Adds the numbers stored in two strings.
-* @n1: The string containing the first number to be added.
-* @n2: The string containing the second number to be added.
-* @r: The buffer to store the result.
-* @dexer: The current index of the buffer.
-*
-* Return: If r can store the sum - a pointer to the result.
-*         If r cannot store the sum - 0.
-*/
-
-char *add_strings(char *n1, char *n2, char *r, int dexer)
-{
-	int number, tens = 0;
-
-	for (; *n1 && *n2; n1--, n2--, dexer--)
+	while (n1[i] != '\0')
+		i++;
+	while (n2[j] != '\0')
+		j++;
+	if (i > j)
+		l = i;
+	else
+		l = j;
+	if (l + 1 > size_r)
+		return (0);
+	r[l] = '\0';
+	for (k = l - 1 ; k >= 0 ; k--)
 	{
-		number = (*n1 - '0') + (*n2 - '0');
-		number += tens;
-		*(r + dexer) = (number % 10) + '0';
-		tens = number / 10;
+		i--;
+		j--;
+		if (i >= 0)
+			f = n1[i] - '0';
+		else
+			f = 0;
+		if (j >= 0)
+			s = n2[j] - '0';
+		else
+			s = 0;
+		r[k] = (f + s + d) % 10 + '0';
+		d = (f + s + d) / 10;
 	}
-
-	for (; *n1; n1--; dexer++)
+	if (d == 1)
 	{
-		number = *(n1 - '0') + tens;
-		*(r + dexer) = (number % 10) + '0';
-		tens = number / 10;
+		r[l + 1] = '\0';
+		if (l + 2 > size_r)
+			return (0);
+		while (l-- >= 0)
+			r[l + 1] = r[l];
+		r[0] = d + '0';
 	}
-
-	for (; *n2; n2--;  dexer--)
-	{
-		number = (*n2 - '0') + tens;
-		*(r + dexer) = (number % 10) + '0';
-		tens = number / 10;
-	}
-
+	return (r);
 }
