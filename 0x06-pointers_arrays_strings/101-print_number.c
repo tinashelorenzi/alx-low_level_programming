@@ -9,7 +9,7 @@ void print_number(int n)
 {
 	if (n < 0)
 	{
-		putchar('-');
+		_putchar('-');
 		n = -n;
 	}
 
@@ -25,6 +25,6 @@ void print_number(int n)
 
 	for (int i = num_digits - 1; i >= 0; i--)
 	{
-		putchar(digits[i] + '0');
+		_putchar(digits[i] + '0');
 	}
 }
