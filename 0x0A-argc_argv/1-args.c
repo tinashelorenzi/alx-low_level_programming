@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
 * main - prints argument size
 *@argc: number of arguments
@@ -6,6 +8,6 @@
 */
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
-	printf("%d\n", argc);
+	printf("%d\n", argc - 1);
 	return (0);
 }
