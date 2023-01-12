@@ -8,22 +8,20 @@
  */
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
-	unsigned int i;
 	char *blk;
+	unsigned int i;
 
-	if (nmbed == 0 || size == 0)
-	{
+	if (nmemb == 0 || size == 0)
 		return (NULL);
-	}
 	blk = malloc(nmemb * size);
 	if (blk != NULL)
 	{
 		for (i = 0; i < (nmemb * size); i++)
+		{
 			blk[i] = 0;
+		}
 		return (blk);
 	}
 	else
-	{
 		return (NULL);
-	}
 }
