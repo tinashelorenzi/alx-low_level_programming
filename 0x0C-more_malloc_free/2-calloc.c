@@ -11,7 +11,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	unsigned int i;
 	char *blk;
 
-	if (counter == 0 || size == 0)
+	if (nmbed == 0 || size == 0)
 	{
 		return (NULL);
 	}
