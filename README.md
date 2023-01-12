@@ -176,15 +176,23 @@
 │   └── README.md
 ├── 0x0A-argc_argv
 │   ├── 0-whatsmyname.c
-│   ├── 100-change
 │   ├── 100-change.c
 │   ├── 1-args.c
 │   ├── 2-args.c
-│   ├── 3-mul
 │   ├── 3-mul.c
 │   ├── 4-add.c
+│   └── README.md
+├── 0x0B-malloc_free
+│   ├── 0-create_array.c
+│   ├── 100-argstostr.c
+│   ├── 101-strtow.c
+│   ├── 1-strdup.c
+│   ├── 2-str_concat.c
+│   ├── 3-alloc_grid.c
+│   ├── 4-free_grid.c
+│   ├── main.h
 │   └── README.md
 ├── README.md
 └── replit.nix
 
-12 directories, 175 files
+13 directories, 182 files
