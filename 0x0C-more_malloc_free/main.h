@@ -3,6 +3,7 @@
 
 #include <unistd.h>
 #include <stdio.h>
+#include <stdlib.h>
 /**
 *void prototypes(void)
 *int prototypes(int)
