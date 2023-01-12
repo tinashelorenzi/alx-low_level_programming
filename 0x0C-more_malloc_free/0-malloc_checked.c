@@ -6,14 +6,12 @@
  * Or return address
  */
 
-void *malloc_checked(unsigned int b);
+void *malloc_checked(unsigned int b)
 {
 	void *rat;
 
 	rat = malloc(b);
 	if (rat == NULL)
-	{
 		exit(98);
-	}
 	return (rat);
 }
