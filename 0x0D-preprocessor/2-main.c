@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*Main - Print origin comp file(source)
-*Return: Nothing
-*/
+ * main - Prints source filename
+ * Return: Nothing
+ */
 int main(void)
 {
 	printf("%s\n", __FILE__);
