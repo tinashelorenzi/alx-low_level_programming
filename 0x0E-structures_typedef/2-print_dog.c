@@ -1,13 +1,13 @@
 #include "dog.h"
 /**
  * print_dog - Prints dog stuff
- * @dog: Dog stuff
+ * @d: Dog stuff
  */
 
 void print_dog(struct dog *d)
 {
-	if (d == NULL )
-	return; 
+	if (d == NULL)
+	return;
 
 	if ((*d).name == NULL)
 	printf("nil\n");

@@ -1,7 +1,7 @@
 #include "dog.h"
 /**
  * init_dog - Creates data struct for init_dog
- * @dog: Dog name
+ * @d: Dog name
  * @name: Dog name
  * @age: Dog age
  * @owner: Dog owner
