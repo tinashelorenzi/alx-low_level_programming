@@ -3,11 +3,17 @@
 
 #include <stdarg.h>
 #include <stdio.h>
-
-typedef struct printer{
-char *symbol;
-void (*print)(va_list arg);
-} printer_t;
+/**
+*struct printer - Typedef for print func
+* @symbol: Its a symbol man
+* @print: The name says it all
+*/
+typedef struct printer
+{
+	char *symbol;
+	void (*print)(va_list arg);
+}
+printer_t;
 
 
 int sum_them_all(const unsigned int n, ...);
