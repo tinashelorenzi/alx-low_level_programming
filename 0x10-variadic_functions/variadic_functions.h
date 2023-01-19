@@ -4,7 +4,9 @@
 #include <stdarg.h>
 #include <stdio.h>
 /**
-*printer - Typedef for print func
+*struct printer - Typedef for print func
+* @symbol: Its a symbol man
+* @print: The name says it all
 */
 typedef struct printer
 {
