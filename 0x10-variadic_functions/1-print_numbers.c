@@ -1,6 +1,8 @@
 #include "variadic_functions.h"
 /**
- * print_numbers
+ * print_numbers - Print numbers and separator
+ * @separator: Separator between numbers
+ * @n: Number of ints passed
 */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
