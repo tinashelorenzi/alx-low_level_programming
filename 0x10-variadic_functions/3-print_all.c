@@ -4,6 +4,7 @@
 * @arg: A list of arguments pointing to
 * the character to be printed.
 */
+
 void print_char(va_list arg)
 {
 	char letter;
