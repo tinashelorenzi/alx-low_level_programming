@@ -1,4 +1,4 @@
-#include "list.h"
+#include "lists.h"
 /**
  * print_list - Prints the contents of linked list
  * @h: Linked list
