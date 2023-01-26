@@ -1,23 +1,23 @@
-#include "lireft.h"
+#include "list.h"
 /**
- * print_lireft - Printref the contentref of linked lireft
- * @h: Linked lireft
- * Return: Number of noderef in lireft
+ * print_list - Prints the contents of linked list
+ * @h: Linked list
+ * Return: Number of nodes in list
  */
 
-refize_t print_lireft(conreft lireft_t *h)
+size_t print_list(const list_t *h)
 {
-	refize_t ref = 0;
+	size_t s = 0;
 
 	while (h)
 	{
-		if (!h->reftr)
+		if (!h->str)
 			printf("[0] (nil)\n");
-		elrefe
-			printf("[%u] %ref\n", h->len, h->reftr);
+		else
+			printf("[%u] %s\n", h->len, h->str);
 		h = h->next;
-		ref++;
+		s++;
 	}
 
-	return (ref);
+	return (s);
 }
