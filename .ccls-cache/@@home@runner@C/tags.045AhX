@@ -1,0 +1,815 @@
+__STDARG_H	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	11;"	d
+va_list	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	/^typedef __builtin_va_list va_list;$/;"	t
+_VA_LIST	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	15;"	d
+va_start	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	17;"	d
+va_end	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	18;"	d
+va_arg	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	19;"	d
+__va_copy	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	24;"	d
+va_copy	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	27;"	d
+__GNUC_VA_LIST	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	31;"	d
+__gnuc_va_list	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stdarg.h	/^typedef __builtin_va_list __gnuc_va_list;$/;"	t
+__STDDEF_H	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	19;"	d
+__need_ptrdiff_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	21;"	d
+__need_size_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	22;"	d
+__need_wchar_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	23;"	d
+__need_NULL	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	24;"	d
+__need_STDDEF_H_misc	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	25;"	d
+_PTRDIFF_T	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	33;"	d
+ptrdiff_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	/^typedef __PTRDIFF_TYPE__ ptrdiff_t;$/;"	t
+__need_ptrdiff_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	37;"	d
+_SIZE_T	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	44;"	d
+size_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	/^typedef __SIZE_TYPE__ size_t;$/;"	t
+__need_size_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	48;"	d
+_RSIZE_T	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	58;"	d
+rsize_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	/^typedef __SIZE_TYPE__ rsize_t;$/;"	t
+_WCHAR_T	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	69;"	d
+_WCHAR_T_DEFINED	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	71;"	d
+__need_wchar_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	77;"	d
+NULL	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	81;"	d
+NULL	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	84;"	d
+NULL	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	86;"	d
+NULL	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	89;"	d
+std	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	/^namespace std { typedef decltype(nullptr) nullptr_t; }$/;"	n
+nullptr_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	/^namespace std { typedef decltype(nullptr) nullptr_t; }$/;"	t	namespace:std
+__need_NULL	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	97;"	d
+offsetof	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	104;"	d
+__need_STDDEF_H_misc	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	105;"	d
+_WINT_T	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	114;"	d
+wint_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	/^typedef __WINT_TYPE__ wint_t;$/;"	t
+__need_wint_t	@nix@store@4m98bsvjh538p292pr4604313mjmnpc5-clang-12.0.1-lib@lib@clang@12.0.1@include@stddef.h	118;"	d
+_BITS_FLOATN_COMMON_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	21;"	d
+__HAVE_FLOAT16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	34;"	d
+__HAVE_FLOAT32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	35;"	d
+__HAVE_FLOAT64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	36;"	d
+__HAVE_FLOAT32X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	37;"	d
+__HAVE_FLOAT128X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	38;"	d
+__HAVE_DISTINCT_FLOAT16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	52;"	d
+__HAVE_DISTINCT_FLOAT32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	53;"	d
+__HAVE_DISTINCT_FLOAT64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	54;"	d
+__HAVE_DISTINCT_FLOAT32X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	55;"	d
+__HAVE_DISTINCT_FLOAT64X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	56;"	d
+__HAVE_DISTINCT_FLOAT128X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	57;"	d
+__HAVE_FLOAT128_UNLIKE_LDBL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	63;"	d
+__HAVE_FLOATN_NOT_TYPEDEF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	70;"	d
+__HAVE_FLOATN_NOT_TYPEDEF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	72;"	d
+__f16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	83;"	d
+__f16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	85;"	d
+__f32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	91;"	d
+__f32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	93;"	d
+__f64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	100;"	d
+__f64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	102;"	d
+__f64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	105;"	d
+__f32x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	111;"	d
+__f32x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	113;"	d
+__f64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	120;"	d
+__f64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	122;"	d
+__f64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	125;"	d
+__f128x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	133;"	d
+__cfloat16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef _Complex float __cfloat16 __attribute__ ((__mode__ (__HC__)));$/;"	t
+__CFLOAT16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	141;"	d
+__CFLOAT16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	143;"	d
+__CFLOAT32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	149;"	d
+__CFLOAT32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	151;"	d
+__CFLOAT64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	158;"	d
+__CFLOAT64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	160;"	d
+__CFLOAT64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	163;"	d
+__CFLOAT32X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	169;"	d
+__CFLOAT32X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	171;"	d
+__CFLOAT64X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	178;"	d
+__CFLOAT64X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	180;"	d
+__CFLOAT64X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	183;"	d
+__CFLOAT128X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	191;"	d
+_Float16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef float _Float16 __attribute__ ((__mode__ (__HF__)));$/;"	t
+__builtin_huge_valf16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	203;"	d
+__builtin_inff16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	204;"	d
+__builtin_nanf16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	205;"	d
+__builtin_nansf16	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	206;"	d
+_Float32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef float _Float32;$/;"	t
+__builtin_huge_valf32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	218;"	d
+__builtin_inff32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	219;"	d
+__builtin_nanf32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	220;"	d
+__builtin_nansf32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	221;"	d
+_Float64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef long double _Float64;$/;"	t
+__builtin_huge_valf64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	242;"	d
+__builtin_inff64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	243;"	d
+__builtin_nanf64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	244;"	d
+__builtin_nansf64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	245;"	d
+_Float64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef double _Float64;$/;"	t
+__builtin_huge_valf64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	255;"	d
+__builtin_inff64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	256;"	d
+__builtin_nanf64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	257;"	d
+__builtin_nansf64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	258;"	d
+_Float32x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef double _Float32x;$/;"	t
+__builtin_huge_valf32x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	272;"	d
+__builtin_inff32x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	273;"	d
+__builtin_nanf32x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	274;"	d
+__builtin_nansf32x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	275;"	d
+_Float64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef long double _Float64x;$/;"	t
+__builtin_huge_valf64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	289;"	d
+__builtin_inff64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	290;"	d
+__builtin_nanf64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	291;"	d
+__builtin_nansf64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	292;"	d
+_Float64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	/^typedef _Float128 _Float64x;$/;"	t
+__builtin_huge_valf64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	302;"	d
+__builtin_inff64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	303;"	d
+__builtin_nanf64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	304;"	d
+__builtin_nansf64x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	305;"	d
+__builtin_huge_valf128x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	319;"	d
+__builtin_inff128x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	320;"	d
+__builtin_nanf128x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	321;"	d
+__builtin_nansf128x	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn-common.h	322;"	d
+_BITS_FLOATN_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	20;"	d
+__HAVE_FLOAT128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	32;"	d
+__HAVE_FLOAT128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	34;"	d
+__HAVE_DISTINCT_FLOAT128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	40;"	d
+__HAVE_DISTINCT_FLOAT128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	42;"	d
+__HAVE_FLOAT64X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	48;"	d
+__HAVE_FLOAT64X_LONG_DOUBLE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	54;"	d
+__f128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	63;"	d
+__f128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	65;"	d
+__cfloat128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	/^typedef _Complex float __cfloat128 __attribute__ ((__mode__ (__TC__)));$/;"	t
+__CFLOAT128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	75;"	d
+__CFLOAT128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	77;"	d
+_Float128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	/^typedef __float128 _Float128;$/;"	t
+__builtin_huge_valf128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	91;"	d
+__builtin_copysignf128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	100;"	d
+__builtin_fabsf128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	101;"	d
+__builtin_inff128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	102;"	d
+__builtin_nanf128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	103;"	d
+__builtin_nansf128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	104;"	d
+__builtin_signbitf128	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@floatn.h	112;"	d
+__GLIBC_INTERNAL_STARTING_HEADER_IMPLEMENTATION	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	31;"	d
+__GLIBC_USE_LIB_EXT2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	37;"	d
+__GLIBC_USE_LIB_EXT2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	40;"	d
+__GLIBC_USE_LIB_EXT2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	42;"	d
+__GLIBC_USE_IEC_60559_BFP_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	49;"	d
+__GLIBC_USE_IEC_60559_BFP_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	51;"	d
+__GLIBC_USE_IEC_60559_BFP_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	53;"	d
+__GLIBC_USE_IEC_60559_BFP_EXT_C2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	55;"	d
+__GLIBC_USE_IEC_60559_BFP_EXT_C2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	57;"	d
+__GLIBC_USE_IEC_60559_BFP_EXT_C2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	59;"	d
+__GLIBC_USE_IEC_60559_FUNCS_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	66;"	d
+__GLIBC_USE_IEC_60559_FUNCS_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	68;"	d
+__GLIBC_USE_IEC_60559_FUNCS_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	70;"	d
+__GLIBC_USE_IEC_60559_FUNCS_EXT_C2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	72;"	d
+__GLIBC_USE_IEC_60559_FUNCS_EXT_C2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	74;"	d
+__GLIBC_USE_IEC_60559_FUNCS_EXT_C2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	76;"	d
+__GLIBC_USE_IEC_60559_TYPES_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	81;"	d
+__GLIBC_USE_IEC_60559_TYPES_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	83;"	d
+__GLIBC_USE_IEC_60559_TYPES_EXT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@libc-header-start.h	85;"	d
+__LDOUBLE_REDIRECTS_TO_FLOAT128_ABI	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@long-double.h	21;"	d
+_BITS_STDIO_LIM_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	19;"	d
+L_tmpnam	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	25;"	d
+TMP_MAX	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	26;"	d
+FILENAME_MAX	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	27;"	d
+L_ctermid	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	30;"	d
+L_cuserid	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	32;"	d
+FOPEN_MAX	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	36;"	d
+FOPEN_MAX	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@stdio_lim.h	37;"	d
+_BITS_TIME64_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time64.h	24;"	d
+__TIME64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time64.h	30;"	d
+__TIME64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@time64.h	33;"	d
+__TIMESIZE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timesize.h	21;"	d
+__TIMESIZE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@timesize.h	24;"	d
+_BITS_TYPES_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	24;"	d
+__u_char	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned char __u_char;$/;"	t
+__u_short	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned short int __u_short;$/;"	t
+__u_int	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned int __u_int;$/;"	t
+__u_long	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned long int __u_long;$/;"	t
+__int8_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef signed char __int8_t;$/;"	t
+__uint8_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned char __uint8_t;$/;"	t
+__int16_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef signed short int __int16_t;$/;"	t
+__uint16_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned short int __uint16_t;$/;"	t
+__int32_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef signed int __int32_t;$/;"	t
+__uint32_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned int __uint32_t;$/;"	t
+__int64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef signed long int __int64_t;$/;"	t
+__uint64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned long int __uint64_t;$/;"	t
+__int64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__extension__ typedef signed long long int __int64_t;$/;"	t
+__uint64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__extension__ typedef unsigned long long int __uint64_t;$/;"	t
+__int_least8_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __int8_t __int_least8_t;$/;"	t
+__uint_least8_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __uint8_t __uint_least8_t;$/;"	t
+__int_least16_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __int16_t __int_least16_t;$/;"	t
+__uint_least16_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __uint16_t __uint_least16_t;$/;"	t
+__int_least32_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __int32_t __int_least32_t;$/;"	t
+__uint_least32_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __uint32_t __uint_least32_t;$/;"	t
+__int_least64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __int64_t __int_least64_t;$/;"	t
+__uint_least64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __uint64_t __uint_least64_t;$/;"	t
+__quad_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef long int __quad_t;$/;"	t
+__u_quad_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned long int __u_quad_t;$/;"	t
+__quad_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__extension__ typedef long long int __quad_t;$/;"	t
+__u_quad_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__extension__ typedef unsigned long long int __u_quad_t;$/;"	t
+__intmax_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef long int __intmax_t;$/;"	t
+__uintmax_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef unsigned long int __uintmax_t;$/;"	t
+__intmax_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__extension__ typedef long long int __intmax_t;$/;"	t
+__uintmax_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__extension__ typedef unsigned long long int __uintmax_t;$/;"	t
+__S16_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	109;"	d
+__U16_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	110;"	d
+__S32_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	111;"	d
+__U32_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	112;"	d
+__SLONGWORD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	113;"	d
+__ULONGWORD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	114;"	d
+__SQUAD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	116;"	d
+__UQUAD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	117;"	d
+__SWORD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	118;"	d
+__UWORD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	119;"	d
+__SLONG32_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	120;"	d
+__ULONG32_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	121;"	d
+__S64_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	122;"	d
+__U64_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	123;"	d
+__STD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	126;"	d
+__SQUAD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	128;"	d
+__UQUAD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	129;"	d
+__SWORD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	130;"	d
+__UWORD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	131;"	d
+__SLONG32_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	132;"	d
+__ULONG32_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	133;"	d
+__S64_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	134;"	d
+__U64_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	135;"	d
+__STD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	137;"	d
+__dev_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __DEV_T_TYPE __dev_t;	\/* Type of device numbers.  *\/$/;"	v
+__uid_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __UID_T_TYPE __uid_t;	\/* Type of user identifications.  *\/$/;"	v
+__gid_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __GID_T_TYPE __gid_t;	\/* Type of group identifications.  *\/$/;"	v
+__ino_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __INO_T_TYPE __ino_t;	\/* Type of file serial numbers.  *\/$/;"	v
+__ino64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __INO64_T_TYPE __ino64_t;	\/* Type of file serial numbers (LFS).*\/$/;"	v
+__mode_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __MODE_T_TYPE __mode_t;	\/* Type of file attribute bitmasks.  *\/$/;"	v
+__nlink_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __NLINK_T_TYPE __nlink_t;	\/* Type of file link counts.  *\/$/;"	v
+__off_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __OFF_T_TYPE __off_t;	\/* Type of file sizes and offsets.  *\/$/;"	v
+__off64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __OFF64_T_TYPE __off64_t;	\/* Type of file sizes and offsets (LFS).  *\/$/;"	v
+__pid_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __PID_T_TYPE __pid_t;	\/* Type of process identifications.  *\/$/;"	v
+__fsid_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __FSID_T_TYPE __fsid_t;	\/* Type of file system IDs.  *\/$/;"	v
+__clock_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __CLOCK_T_TYPE __clock_t;	\/* Type of CPU usage counts.  *\/$/;"	v
+__rlim_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __RLIM_T_TYPE __rlim_t;	\/* Type for resource measurement.  *\/$/;"	v
+__rlim64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __RLIM64_T_TYPE __rlim64_t;	\/* Type for resource measurement (LFS).  *\/$/;"	v
+__id_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __ID_T_TYPE __id_t;		\/* General type for IDs.  *\/$/;"	v
+__time_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __TIME_T_TYPE __time_t;	\/* Seconds since the Epoch.  *\/$/;"	v
+__useconds_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __USECONDS_T_TYPE __useconds_t; \/* Count of microseconds.  *\/$/;"	v
+__suseconds_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __SUSECONDS_T_TYPE __suseconds_t; \/* Signed count of microseconds.  *\/$/;"	v
+__suseconds64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __SUSECONDS64_T_TYPE __suseconds64_t;$/;"	v
+__daddr_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __DADDR_T_TYPE __daddr_t;	\/* The type of a disk address.  *\/$/;"	v
+__key_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __KEY_T_TYPE __key_t;	\/* Type of an IPC key.  *\/$/;"	v
+__clockid_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __CLOCKID_T_TYPE __clockid_t;$/;"	v
+__timer_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __TIMER_T_TYPE __timer_t;$/;"	v
+__blksize_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __BLKSIZE_T_TYPE __blksize_t;$/;"	v
+__blkcnt_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __BLKCNT_T_TYPE __blkcnt_t;$/;"	v
+__blkcnt64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __BLKCNT64_T_TYPE __blkcnt64_t;$/;"	v
+__fsblkcnt_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __FSBLKCNT_T_TYPE __fsblkcnt_t;$/;"	v
+__fsblkcnt64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __FSBLKCNT64_T_TYPE __fsblkcnt64_t;$/;"	v
+__fsfilcnt_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __FSFILCNT_T_TYPE __fsfilcnt_t;$/;"	v
+__fsfilcnt64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __FSFILCNT64_T_TYPE __fsfilcnt64_t;$/;"	v
+__fsword_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __FSWORD_T_TYPE __fsword_t;$/;"	v
+__ssize_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __SSIZE_T_TYPE __ssize_t; \/* Type of a byte count, or error.  *\/$/;"	v
+__syscall_slong_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __SYSCALL_SLONG_TYPE __syscall_slong_t;$/;"	v
+__syscall_ulong_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __SYSCALL_ULONG_TYPE __syscall_ulong_t;$/;"	v
+__loff_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef __off64_t __loff_t;	\/* Type of file sizes and offsets (LFS).  *\/$/;"	t
+__caddr_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef char *__caddr_t;$/;"	t
+__intptr_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __SWORD_TYPE __intptr_t;$/;"	v
+__socklen_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __U32_TYPE __socklen_t;$/;"	v
+__sig_atomic_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^typedef int __sig_atomic_t;$/;"	t
+__time64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	221;"	d
+__time64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	/^__STD_TYPE __TIME64_T_TYPE __time64_t;$/;"	v
+__STD_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types.h	226;"	d
+__FILE_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@FILE.h	2;"	d
+_IO_FILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@FILE.h	/^struct _IO_FILE;$/;"	x
+FILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@FILE.h	/^typedef struct _IO_FILE FILE;$/;"	t	typeref:struct:_IO_FILE
+____FILE_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__FILE.h	2;"	d
+_IO_FILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__FILE.h	/^struct _IO_FILE;$/;"	x
+__FILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__FILE.h	/^typedef struct _IO_FILE __FILE;$/;"	t	typeref:struct:_IO_FILE
+_____fpos64_t_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h	2;"	d
+_G_fpos64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h	/^typedef struct _G_fpos64_t$/;"	s
+__pos	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h	/^  __off64_t __pos;$/;"	m	struct:_G_fpos64_t
+__state	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h	/^  __mbstate_t __state;$/;"	m	struct:_G_fpos64_t
+__fpos64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos64_t.h	/^} __fpos64_t;$/;"	t	typeref:struct:_G_fpos64_t
+_____fpos_t_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h	2;"	d
+_G_fpos_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h	/^typedef struct _G_fpos_t$/;"	s
+__pos	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h	/^  __off_t __pos;$/;"	m	struct:_G_fpos_t
+__state	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h	/^  __mbstate_t __state;$/;"	m	struct:_G_fpos_t
+__fpos_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__fpos_t.h	/^} __fpos_t;$/;"	t	typeref:struct:_G_fpos_t
+____mbstate_t_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h	2;"	d
+__WINT_TYPE__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h	9;"	d
+__count	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h	/^  int __count;$/;"	m	struct:__anon1
+__wch	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h	/^    __WINT_TYPE__ __wch;$/;"	m	union:__anon1::__anon2
+__wchb	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h	/^    char __wchb[4];$/;"	m	union:__anon1::__anon2
+__value	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h	/^  } __value;		\/* Value so far.  *\/$/;"	m	struct:__anon1	typeref:union:__anon1::__anon2
+__mbstate_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@__mbstate_t.h	/^} __mbstate_t;$/;"	t	typeref:struct:__anon1
+__struct_FILE_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	19;"	d
+_IO_FILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^struct _IO_FILE;$/;"	x
+_IO_marker	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^struct _IO_marker;$/;"	x
+_IO_codecvt	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^struct _IO_codecvt;$/;"	x
+_IO_wide_data	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^struct _IO_wide_data;$/;"	x
+_IO_lock_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^typedef void _IO_lock_t;$/;"	t
+_IO_FILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^struct _IO_FILE$/;"	s
+_flags	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  int _flags;		\/* High-order word is _IO_MAGIC; rest is flags. *\/$/;"	m	struct:_IO_FILE
+_IO_read_ptr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_read_ptr;	\/* Current read pointer *\/$/;"	m	struct:_IO_FILE
+_IO_read_end	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_read_end;	\/* End of get area. *\/$/;"	m	struct:_IO_FILE
+_IO_read_base	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_read_base;	\/* Start of putback+get area. *\/$/;"	m	struct:_IO_FILE
+_IO_write_base	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_write_base;	\/* Start of put area. *\/$/;"	m	struct:_IO_FILE
+_IO_write_ptr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_write_ptr;	\/* Current put pointer. *\/$/;"	m	struct:_IO_FILE
+_IO_write_end	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_write_end;	\/* End of put area. *\/$/;"	m	struct:_IO_FILE
+_IO_buf_base	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_buf_base;	\/* Start of reserve area. *\/$/;"	m	struct:_IO_FILE
+_IO_buf_end	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_buf_end;	\/* End of reserve area. *\/$/;"	m	struct:_IO_FILE
+_IO_save_base	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_save_base; \/* Pointer to start of non-current get area. *\/$/;"	m	struct:_IO_FILE
+_IO_backup_base	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_backup_base;  \/* Pointer to first valid character of backup area *\/$/;"	m	struct:_IO_FILE
+_IO_save_end	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char *_IO_save_end; \/* Pointer to end of non-current get area. *\/$/;"	m	struct:_IO_FILE
+_markers	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  struct _IO_marker *_markers;$/;"	m	struct:_IO_FILE	typeref:struct:_IO_FILE::_IO_marker
+_chain	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  struct _IO_FILE *_chain;$/;"	m	struct:_IO_FILE	typeref:struct:_IO_FILE::_IO_FILE
+_fileno	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  int _fileno;$/;"	m	struct:_IO_FILE
+_flags2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  int _flags2;$/;"	m	struct:_IO_FILE
+_old_offset	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  __off_t _old_offset; \/* This used to be _offset but it's too small.  *\/$/;"	m	struct:_IO_FILE
+_cur_column	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  unsigned short _cur_column;$/;"	m	struct:_IO_FILE
+_vtable_offset	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  signed char _vtable_offset;$/;"	m	struct:_IO_FILE
+_shortbuf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char _shortbuf[1];$/;"	m	struct:_IO_FILE
+_lock	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  _IO_lock_t *_lock;$/;"	m	struct:_IO_FILE
+_IO_FILE_complete	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^struct _IO_FILE_complete$/;"	s
+_file	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  struct _IO_FILE _file;$/;"	m	struct:_IO_FILE_complete	typeref:struct:_IO_FILE_complete::_IO_FILE
+_offset	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  __off64_t _offset;$/;"	m	struct:_IO_FILE_complete
+_codecvt	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  struct _IO_codecvt *_codecvt;$/;"	m	struct:_IO_FILE_complete	typeref:struct:_IO_FILE_complete::_IO_codecvt
+_wide_data	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  struct _IO_wide_data *_wide_data;$/;"	m	struct:_IO_FILE_complete	typeref:struct:_IO_FILE_complete::_IO_wide_data
+_freeres_list	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  struct _IO_FILE *_freeres_list;$/;"	m	struct:_IO_FILE_complete	typeref:struct:_IO_FILE_complete::_IO_FILE
+_freeres_buf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  void *_freeres_buf;$/;"	m	struct:_IO_FILE_complete
+__pad5	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  size_t __pad5;$/;"	m	struct:_IO_FILE_complete
+_mode	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  int _mode;$/;"	m	struct:_IO_FILE_complete
+_unused2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	/^  char _unused2[15 * sizeof (int) - 4 * sizeof (void *) - sizeof (size_t)];$/;"	m	struct:_IO_FILE_complete
+__getc_unlocked_body	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	102;"	d
+__putc_unlocked_body	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	106;"	d
+_IO_EOF_SEEN	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	111;"	d
+__feof_unlocked_body	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	112;"	d
+_IO_ERR_SEEN	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	114;"	d
+__ferror_unlocked_body	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	115;"	d
+_IO_USER_LOCK	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@types@struct_FILE.h	117;"	d
+_BITS_TYPESIZES_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	24;"	d
+__SYSCALL_SLONG_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	31;"	d
+__SYSCALL_ULONG_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	32;"	d
+__SYSCALL_SLONG_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	34;"	d
+__SYSCALL_ULONG_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	35;"	d
+__DEV_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	38;"	d
+__UID_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	39;"	d
+__GID_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	40;"	d
+__INO_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	41;"	d
+__INO64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	42;"	d
+__MODE_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	43;"	d
+__NLINK_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	45;"	d
+__FSWORD_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	46;"	d
+__NLINK_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	48;"	d
+__FSWORD_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	49;"	d
+__OFF_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	51;"	d
+__OFF64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	52;"	d
+__PID_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	53;"	d
+__RLIM_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	54;"	d
+__RLIM64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	55;"	d
+__BLKCNT_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	56;"	d
+__BLKCNT64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	57;"	d
+__FSBLKCNT_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	58;"	d
+__FSBLKCNT64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	59;"	d
+__FSFILCNT_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	60;"	d
+__FSFILCNT64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	61;"	d
+__ID_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	62;"	d
+__CLOCK_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	63;"	d
+__TIME_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	64;"	d
+__USECONDS_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	65;"	d
+__SUSECONDS_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	66;"	d
+__SUSECONDS64_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	67;"	d
+__DADDR_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	68;"	d
+__KEY_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	69;"	d
+__CLOCKID_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	70;"	d
+__TIMER_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	71;"	d
+__BLKSIZE_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	72;"	d
+__FSID_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	73;"	d
+__SSIZE_T_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	74;"	d
+__CPU_MASK_TYPE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	75;"	d
+__OFF_T_MATCHES_OFF64_T	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	81;"	d
+__INO_T_MATCHES_INO64_T	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	84;"	d
+__RLIM_T_MATCHES_RLIM64_T	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	87;"	d
+__STATFS_MATCHES_STATFS64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	90;"	d
+__KERNEL_OLD_TIMEVAL_MATCHES_TIMEVAL64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	93;"	d
+__RLIM_T_MATCHES_RLIM64_T	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	95;"	d
+__STATFS_MATCHES_STATFS64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	97;"	d
+__KERNEL_OLD_TIMEVAL_MATCHES_TIMEVAL64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	99;"	d
+__FD_SETSIZE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@typesizes.h	103;"	d
+__WORDSIZE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h	4;"	d
+__WORDSIZE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h	6;"	d
+__WORDSIZE32_SIZE_ULONG	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h	7;"	d
+__WORDSIZE32_PTRDIFF_LONG	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h	8;"	d
+__WORDSIZE_TIME64_COMPAT32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h	12;"	d
+__SYSCALL_WORDSIZE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h	14;"	d
+__WORDSIZE_TIME64_COMPAT32	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@bits@wordsize.h	16;"	d
+_FEATURES_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	19;"	d
+__USE_ISOC11	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	120;"	d
+__USE_ISOC99	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	121;"	d
+__USE_ISOC95	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	122;"	d
+__USE_ISOCXX11	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	123;"	d
+__USE_POSIX	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	124;"	d
+__USE_POSIX2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	125;"	d
+__USE_POSIX199309	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	126;"	d
+__USE_POSIX199506	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	127;"	d
+__USE_XOPEN	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	128;"	d
+__USE_XOPEN_EXTENDED	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	129;"	d
+__USE_UNIX98	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	130;"	d
+__USE_XOPEN2K	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	131;"	d
+__USE_XOPEN2KXSI	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	132;"	d
+__USE_XOPEN2K8	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	133;"	d
+__USE_XOPEN2K8XSI	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	134;"	d
+__USE_LARGEFILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	135;"	d
+__USE_LARGEFILE64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	136;"	d
+__USE_FILE_OFFSET64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	137;"	d
+__USE_MISC	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	138;"	d
+__USE_ATFILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	139;"	d
+__USE_GNU	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	140;"	d
+__USE_FORTIFY_LEVEL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	141;"	d
+__KERNEL_STRICT_NAMES	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	142;"	d
+__GLIBC_USE_ISOC2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	143;"	d
+__GLIBC_USE_DEPRECATED_GETS	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	144;"	d
+__GLIBC_USE_DEPRECATED_SCANF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	145;"	d
+__KERNEL_STRICT_NAMES	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	150;"	d
+__GNUC_PREREQ	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	161;"	d
+__GNUC_PREREQ	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	164;"	d
+__glibc_clang_prereq	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	172;"	d
+__glibc_clang_prereq	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	175;"	d
+__GLIBC_USE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	179;"	d
+_DEFAULT_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	188;"	d
+_DEFAULT_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	189;"	d
+_ISOC95_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	194;"	d
+_ISOC95_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	195;"	d
+_ISOC99_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	196;"	d
+_ISOC99_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	197;"	d
+_ISOC11_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	198;"	d
+_ISOC11_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	199;"	d
+_ISOC2X_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	200;"	d
+_ISOC2X_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	201;"	d
+_POSIX_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	202;"	d
+_POSIX_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	203;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	204;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	205;"	d
+_XOPEN_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	206;"	d
+_XOPEN_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	207;"	d
+_XOPEN_SOURCE_EXTENDED	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	208;"	d
+_XOPEN_SOURCE_EXTENDED	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	209;"	d
+_LARGEFILE64_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	210;"	d
+_LARGEFILE64_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	211;"	d
+_DEFAULT_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	212;"	d
+_DEFAULT_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	213;"	d
+_ATFILE_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	214;"	d
+_ATFILE_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	215;"	d
+_DEFAULT_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	226;"	d
+_DEFAULT_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	227;"	d
+__GLIBC_USE_ISOC2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	233;"	d
+__GLIBC_USE_ISOC2X	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	235;"	d
+__USE_ISOC11	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	241;"	d
+__USE_ISOC99	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	248;"	d
+__USE_ISOC95	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	255;"	d
+__USE_ISOC11	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	261;"	d
+__USE_ISOCXX11	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	266;"	d
+__USE_ISOC99	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	267;"	d
+__USE_POSIX_IMPLICITLY	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	276;"	d
+_POSIX_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	278;"	d
+_POSIX_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	279;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	280;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	281;"	d
+_POSIX_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	287;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	289;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	291;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	293;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	295;"	d
+__USE_POSIX_IMPLICITLY	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	297;"	d
+_POSIX_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	308;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	309;"	d
+_POSIX_C_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	310;"	d
+__USE_POSIX	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	316;"	d
+__USE_POSIX2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	320;"	d
+__USE_POSIX199309	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	324;"	d
+__USE_POSIX199506	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	328;"	d
+__USE_XOPEN2K	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	332;"	d
+__USE_ISOC95	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	333;"	d
+__USE_ISOC95	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	334;"	d
+__USE_ISOC99	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	335;"	d
+__USE_ISOC99	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	336;"	d
+__USE_XOPEN2K8	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	340;"	d
+_ATFILE_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	341;"	d
+_ATFILE_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	342;"	d
+__USE_XOPEN	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	346;"	d
+__USE_XOPEN_EXTENDED	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	348;"	d
+__USE_UNIX98	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	349;"	d
+_LARGEFILE_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	350;"	d
+_LARGEFILE_SOURCE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	351;"	d
+__USE_XOPEN2K8	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	354;"	d
+__USE_XOPEN2K8XSI	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	355;"	d
+__USE_XOPEN2K	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	357;"	d
+__USE_XOPEN2KXSI	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	358;"	d
+__USE_ISOC95	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	359;"	d
+__USE_ISOC95	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	360;"	d
+__USE_ISOC99	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	361;"	d
+__USE_ISOC99	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	362;"	d
+__USE_XOPEN_EXTENDED	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	366;"	d
+__USE_LARGEFILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	372;"	d
+__USE_LARGEFILE64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	376;"	d
+__USE_FILE_OFFSET64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	380;"	d
+__USE_MISC	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	384;"	d
+__USE_ATFILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	388;"	d
+__USE_GNU	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	392;"	d
+__USE_FORTIFY_LEVEL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	404;"	d
+__USE_FORTIFY_LEVEL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	409;"	d
+__USE_FORTIFY_LEVEL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	411;"	d
+__USE_FORTIFY_LEVEL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	415;"	d
+__GLIBC_USE_DEPRECATED_GETS	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	423;"	d
+__GLIBC_USE_DEPRECATED_GETS	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	425;"	d
+__GLIBC_USE_DEPRECATED_SCANF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	444;"	d
+__GLIBC_USE_DEPRECATED_SCANF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	446;"	d
+__GNU_LIBRARY__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	459;"	d
+__GNU_LIBRARY__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	460;"	d
+__GLIBC__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	464;"	d
+__GLIBC_MINOR__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	465;"	d
+__GLIBC_PREREQ	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	467;"	d
+__USE_LARGEFILE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	479;"	d
+__USE_LARGEFILE64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	480;"	d
+__USE_EXTERN_INLINES	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@features.h	489;"	d
+__stub___compat_bdflush	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	10;"	d
+__stub_chflags	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	11;"	d
+__stub_fchflags	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	12;"	d
+__stub_gtty	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	13;"	d
+__stub_revoke	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	14;"	d
+__stub_setlogin	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	15;"	d
+__stub_sigreturn	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	16;"	d
+__stub_stty	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@gnu@stubs-64.h	17;"	d
+_STDC_PREDEF_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h	19;"	d
+__STDC_IEC_559__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h	38;"	d
+__STDC_IEC_559__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h	41;"	d
+__STDC_IEC_559_COMPLEX__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h	46;"	d
+__STDC_IEC_559_COMPLEX__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h	49;"	d
+__STDC_ISO_10646__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdc-predef.h	58;"	d
+_STDIO_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	24;"	d
+__GLIBC_INTERNAL_STARTING_HEADER_IMPLEMENTATION	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	26;"	d
+__need_size_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	31;"	d
+__need_NULL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	32;"	d
+__need___va_list	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	35;"	d
+va_list	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __gnuc_va_list va_list;$/;"	t
+_VA_LIST_DEFINED	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	53;"	d
+off_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __off_t off_t;$/;"	t
+off_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __off64_t off_t;$/;"	t
+__off_t_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	67;"	d
+off64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __off64_t off64_t;$/;"	t
+__off64_t_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	71;"	d
+ssize_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __ssize_t ssize_t;$/;"	t
+__ssize_t_defined	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	78;"	d
+fpos_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __fpos_t fpos_t;$/;"	t
+fpos_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __fpos64_t fpos_t;$/;"	t
+fpos64_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^typedef __fpos64_t fpos64_t;$/;"	t
+_IOFBF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	93;"	d
+_IOLBF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	94;"	d
+_IONBF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	95;"	d
+BUFSIZ	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	99;"	d
+EOF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	104;"	d
+SEEK_SET	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	109;"	d
+SEEK_CUR	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	110;"	d
+SEEK_END	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	111;"	d
+SEEK_DATA	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	113;"	d
+SEEK_HOLE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	114;"	d
+P_tmpdir	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	120;"	d
+stdin	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern FILE *stdin;		\/* Standard input stream.  *\/$/;"	x
+stdout	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern FILE *stdout;		\/* Standard output stream.  *\/$/;"	x
+stderr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern FILE *stderr;		\/* Standard error output stream.  *\/$/;"	x
+stdin	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	141;"	d
+stdout	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	142;"	d
+stderr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	143;"	d
+RENAME_NOREPLACE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	158;"	d
+RENAME_EXCHANGE	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	159;"	d
+RENAME_WHITEOUT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	160;"	d
+tmpfile	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	178;"	d
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern char *tmpnam (char *__s) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern char *tmpnam_r (char *__s) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^     __THROW __attribute_malloc__ __wur;$/;"	v
+fclose	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fclose (FILE *__stream);$/;"	p
+fflush	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fflush (FILE *__stream);$/;"	p
+fflush_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fflush_unlocked (FILE *__stream);$/;"	p
+fcloseall	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fcloseall (void);$/;"	p
+fopen	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	265;"	d
+freopen	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	266;"	d
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern FILE *fdopen (int __fd, const char *__modes) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^			  cookie_io_functions_t __io_funcs) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^  __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern FILE *open_memstream (char **__bufloc, size_t *__sizeloc) __THROW __wur;$/;"	v
+fprintf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fprintf (FILE *__restrict __stream,$/;"	p
+printf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int printf (const char *__restrict __format, ...);$/;"	p
+vfprintf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int vfprintf (FILE *__restrict __s, const char *__restrict __format,$/;"	p
+vprintf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int vprintf (const char *__restrict __format, __gnuc_va_list __arg);$/;"	p
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^     __THROWNL __attribute__ ((__format__ (__printf__, 2, 0))) __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^     __THROWNL __attribute__ ((__format__ (__printf__, 2, 3))) __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^     __THROWNL __attribute__ ((__format__ (__printf__, 2, 3))) __wur;$/;"	v
+vdprintf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int vdprintf (int __fd, const char *__restrict __fmt,$/;"	p
+dprintf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int dprintf (int __fd, const char *__restrict __fmt, ...)$/;"	p
+__REDIRECT_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int __REDIRECT_NTH (sscanf, (const char *__restrict __s,$/;"	p
+fscanf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	424;"	d
+scanf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	425;"	d
+sscanf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	426;"	d
+__REDIRECT_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int __REDIRECT_NTH (vsscanf,$/;"	p
+vfscanf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	477;"	d
+vscanf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	478;"	d
+vsscanf	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	479;"	d
+fgetc	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fgetc (FILE *__stream);$/;"	p
+getc	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int getc (FILE *__stream);$/;"	p
+getchar	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int getchar (void);$/;"	p
+getc_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int getc_unlocked (FILE *__stream);$/;"	p
+getchar_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int getchar_unlocked (void);$/;"	p
+fgetc_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fgetc_unlocked (FILE *__stream);$/;"	p
+fputc	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fputc (int __c, FILE *__stream);$/;"	p
+putc	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int putc (int __c, FILE *__stream);$/;"	p
+putchar	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int putchar (int __c);$/;"	p
+fputc_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fputc_unlocked (int __c, FILE *__stream);$/;"	p
+putc_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int putc_unlocked (int __c, FILE *__stream);$/;"	p
+putchar_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int putchar_unlocked (int __c);$/;"	p
+getw	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int getw (FILE *__stream);$/;"	p
+putw	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int putw (int __w, FILE *__stream);$/;"	p
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^     __wur __attr_access ((__write_only__, 1, 2));$/;"	p
+__attribute_deprecated__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern char *gets (char *__s) __wur __attribute_deprecated__;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^			     FILE *__restrict __stream) __wur$/;"	p
+fputs	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fputs (const char *__restrict __s, FILE *__restrict __stream);$/;"	p
+puts	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int puts (const char *__s);$/;"	p
+ungetc	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int ungetc (int __c, FILE *__stream);$/;"	p
+fwrite	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern size_t fwrite (const void *__restrict __ptr, size_t __size,$/;"	p
+fputs_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fputs_unlocked (const char *__restrict __s,$/;"	p
+fwrite_unlocked	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern size_t fwrite_unlocked (const void *__restrict __ptr, size_t __size,$/;"	p
+fseek	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fseek (FILE *__stream, long int __off, int __whence);$/;"	p
+rewind	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern void rewind (FILE *__stream);$/;"	p
+fseeko	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fseeko (FILE *__stream, __off_t __off, int __whence);$/;"	p
+__REDIRECT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int __REDIRECT (fseeko,$/;"	p
+__REDIRECT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern __off64_t __REDIRECT (ftello, (FILE *__stream), ftello64);$/;"	p
+fseeko	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	725;"	d
+ftello	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	726;"	d
+fgetpos	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fgetpos (FILE *__restrict __stream, fpos_t *__restrict __pos);$/;"	p
+fsetpos	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fsetpos (FILE *__stream, const fpos_t *__pos);$/;"	p
+__REDIRECT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int __REDIRECT (fgetpos, (FILE *__restrict __stream,$/;"	p
+__REDIRECT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int __REDIRECT (fsetpos,$/;"	p
+fgetpos	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	749;"	d
+fsetpos	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	750;"	d
+fseeko64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fseeko64 (FILE *__stream, __off64_t __off, int __whence);$/;"	p
+fgetpos64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fgetpos64 (FILE *__restrict __stream, fpos64_t *__restrict __pos);$/;"	p
+fsetpos64	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fsetpos64 (FILE *__stream, const fpos64_t *__pos);$/;"	p
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int feof (FILE *__stream) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int ferror (FILE *__stream) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int feof_unlocked (FILE *__stream) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int ferror_unlocked (FILE *__stream) __THROW __wur;$/;"	v
+perror	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern void perror (const char *__s);$/;"	p
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fileno (FILE *__stream) __THROW __wur;$/;"	v
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int fileno_unlocked (FILE *__stream) __THROW __wur;$/;"	v
+pclose	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int pclose (FILE *__stream);$/;"	p
+cuserid	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern char *cuserid (char *__s);$/;"	p
+obstack	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^struct obstack;			\/* See <obstack.h>.  *\/$/;"	x
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int ftrylockfile (FILE *__stream) __THROW __wur;$/;"	v
+__uflow	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int __uflow (FILE *);$/;"	p
+__overflow	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@stdio.h	/^extern int __overflow (FILE *, int);$/;"	p
+_SYS_CDEFS_H	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	19;"	d
+__P	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	34;"	d
+__PMT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	35;"	d
+__LEAF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	42;"	d
+__LEAF_ATTR	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	43;"	d
+__LEAF	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	45;"	d
+__LEAF_ATTR	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	46;"	d
+__THROW	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	55;"	d
+__THROWNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	56;"	d
+__NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	57;"	d
+__NTHNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	58;"	d
+__THROW	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	62;"	d
+__THROW	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	64;"	d
+__THROWNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	66;"	d
+__NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	67;"	d
+__NTHNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	68;"	d
+__THROW	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	70;"	d
+__THROWNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	71;"	d
+__NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	72;"	d
+__NTHNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	73;"	d
+__inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	81;"	d
+__inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	83;"	d
+__THROW	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	86;"	d
+__THROWNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	87;"	d
+__NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	88;"	d
+__glibc_clang_has_extension	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	96;"	d
+__glibc_clang_has_extension	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	98;"	d
+__P	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	103;"	d
+__PMT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	104;"	d
+__CONCAT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	109;"	d
+__STRING	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	110;"	d
+__ptr_t	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	113;"	d
+__BEGIN_DECLS	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	118;"	d
+__END_DECLS	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	119;"	d
+__BEGIN_DECLS	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	121;"	d
+__END_DECLS	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	122;"	d
+__bos	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	127;"	d
+__bos0	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	128;"	d
+__glibc_objsize0	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	132;"	d
+__glibc_objsize	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	133;"	d
+__glibc_objsize0	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	135;"	d
+__glibc_objsize	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	136;"	d
+__warnattr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	140;"	d
+__errordecl	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	141;"	d
+__warnattr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	144;"	d
+__errordecl	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	145;"	d
+__flexarr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	153;"	d
+__glibc_c99_flexarr_available	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	154;"	d
+__flexarr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	158;"	d
+__glibc_c99_flexarr_available	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	159;"	d
+__flexarr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	163;"	d
+__glibc_c99_flexarr_available	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	164;"	d
+__flexarr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	167;"	d
+__glibc_c99_flexarr_available	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	168;"	d
+__REDIRECT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	184;"	d
+__REDIRECT_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	186;"	d
+__REDIRECT_NTHNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	188;"	d
+__REDIRECT_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	191;"	d
+__REDIRECT_NTHNL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	193;"	d
+__ASMNAME	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	196;"	d
+__ASMNAME2	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	197;"	d
+__attribute__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	211;"	d
+__attribute_malloc__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	218;"	d
+__attribute_malloc__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	220;"	d
+__attribute_alloc_size__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	226;"	d
+__attribute_alloc_size__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	229;"	d
+__attribute_pure__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	236;"	d
+__attribute_pure__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	238;"	d
+__attribute_const__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	243;"	d
+__attribute_const__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	245;"	d
+__attribute_used__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	252;"	d
+__attribute_noinline__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	253;"	d
+__attribute_used__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	255;"	d
+__attribute_noinline__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	256;"	d
+__attribute_deprecated__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	261;"	d
+__attribute_deprecated__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	263;"	d
+__attribute_deprecated_msg__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	271;"	d
+__attribute_deprecated_msg__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	274;"	d
+__attribute_format_arg__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	284;"	d
+__attribute_format_arg__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	286;"	d
+__attribute_format_strfmon__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	294;"	d
+__attribute_format_strfmon__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	297;"	d
+__nonnull	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	303;"	d
+__nonnull	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	305;"	d
+__attribute_warn_unused_result__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	311;"	d
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	314;"	d
+__attribute_warn_unused_result__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	317;"	d
+__wur	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	320;"	d
+__always_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	328;"	d
+__always_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	329;"	d
+__always_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	331;"	d
+__always_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	332;"	d
+__attribute_artificial__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	338;"	d
+__attribute_artificial__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	340;"	d
+__extern_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	356;"	d
+__extern_always_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	357;"	d
+__extern_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	360;"	d
+__extern_always_inline	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	361;"	d
+__fortify_function	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	366;"	d
+__va_arg_pack	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	372;"	d
+__va_arg_pack_len	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	373;"	d
+__extension__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	381;"	d
+__restrict	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	387;"	d
+__restrict	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	389;"	d
+__restrict_arr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	397;"	d
+__restrict_arr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	400;"	d
+__restrict_arr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	403;"	d
+__restrict_arr	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	406;"	d
+__glibc_unlikely	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	412;"	d
+__glibc_likely	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	413;"	d
+__glibc_unlikely	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	415;"	d
+__glibc_likely	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	416;"	d
+__glibc_has_attribute	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	420;"	d
+__glibc_has_attribute	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	422;"	d
+_Noreturn	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	429;"	d
+_Noreturn	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	431;"	d
+__attribute_nonstring__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	439;"	d
+__attribute_nonstring__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	441;"	d
+__attribute_copy__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	445;"	d
+__attribute_copy__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	449;"	d
+__attribute_copy__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	451;"	d
+_Static_assert	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	457;"	d
+__LDBL_REDIR	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	469;"	d
+__LDBL_REDIR_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	470;"	d
+__LDBL_REDIR2_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	474;"	d
+__LDBL_REDIR1	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	479;"	d
+__LDBL_REDIR1_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	480;"	d
+__LDBL_REDIR1_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	483;"	d
+__REDIRECT_NTH_LDBL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	485;"	d
+__REDIRECT_LDBL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	489;"	d
+__LDBL_REDIR_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	490;"	d
+__LDBL_COMPAT	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	496;"	d
+__LDBL_REDIR1	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	498;"	d
+__LDBL_REDIR	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	499;"	d
+__LDBL_REDIR1_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	501;"	d
+__LDBL_REDIR_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	502;"	d
+__LDBL_REDIR2_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	504;"	d
+__LDBL_REDIR1_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	506;"	d
+__LDBL_REDIR_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	508;"	d
+__REDIRECT_LDBL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	510;"	d
+__REDIRECT_NTH_LDBL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	512;"	d
+__LDBL_REDIR1	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	518;"	d
+__LDBL_REDIR	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	519;"	d
+__LDBL_REDIR1_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	520;"	d
+__LDBL_REDIR_NTH	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	521;"	d
+__LDBL_REDIR2_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	522;"	d
+__LDBL_REDIR_DECL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	523;"	d
+__REDIRECT_LDBL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	525;"	d
+__REDIRECT_NTH_LDBL	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	526;"	d
+__glibc_macro_warning1	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	537;"	d
+__glibc_macro_warning	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	538;"	d
+__glibc_macro_warning	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	541;"	d
+__HAVE_GENERIC_SELECTION	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	556;"	d
+__HAVE_GENERIC_SELECTION	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	558;"	d
+__attr_access	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	567;"	d
+__attr_access	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	569;"	d
+__attribute_returns_twice__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	575;"	d
+__attribute_returns_twice__	@nix@store@iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev@include@sys@cdefs.h	577;"	d
