@@ -3,6 +3,7 @@
  * add_nodeint - Adds note to the end of list
  * @head: First node
  * @n: Number of nodes
+ * Return: Nothing
  */
 
 
