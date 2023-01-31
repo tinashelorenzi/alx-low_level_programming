@@ -4,6 +4,7 @@
  * add_nodeint_end - Creates node at the tail
  * @head: First node
  * @n: Number of nodes initially
+ * Return: New Tail address
  */
 
 
